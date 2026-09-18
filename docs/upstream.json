@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/anomalyco/opencode.git",
+  "tag": "v1.18.31",
+  "commit": "014614d35b397775e5d397a490fc72368c894ec2",
+  "branch": "artemis-main",
+  "remote": "upstream",
+  "packageManager": "bun@1.3.14",
+  "importedAt": "2026-09-15",
+  "bunArchiveSha256": "951ee2aee855f08595aeec6225226a298d3fea83a3dcd6465c09cbccdf7e848f",
+  "notes": "Revision and Bun archive verified during P0. Runtime changes are not part of this provenance record."
+}

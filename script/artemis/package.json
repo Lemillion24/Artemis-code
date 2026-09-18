@@ -1,0 +1,9 @@
+{
+  "name": "artemis-dev-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test --timeout 10000",
+    "typecheck": "tsgo --noEmit"
+  }
+}
